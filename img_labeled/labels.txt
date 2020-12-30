@@ -1,8 +1,0 @@
-0 - apple
-1 - bg
-2 - snake body
-3 - snake head
-4 - others
-
-100 รูปต่อ 1 คลาส
-gallery image 10 รูปต่อคลาส
