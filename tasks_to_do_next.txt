@@ -1,7 +1,0 @@
-- เพิ่ม gallery ของ body ===done===
-- การทดลองว่า CV ในแต่ละคลาสแม่นยำแค่ไหน: confusion matrix, example for ppt.
-- github ext. library
-- target position
-- heuristic function
-    - distance between head and body (nearest?, middle?, tail?) of the snake => direction to move towards
-    - use human knowledge
